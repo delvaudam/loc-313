@@ -1,1 +1,4 @@
 read-me.md
+*.txt
+tmp*
+.idea/*
