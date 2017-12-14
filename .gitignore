@@ -2,3 +2,4 @@ read-me.md
 *.txt
 tmp*
 .idea/*
+!info.txt
